@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevicesConsole", "DevicesConsole\DevicesConsole.csproj", "{A060286D-F1A6-4128-8FBE-4D0552453CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dtos", "Dtos\Dtos.csproj", "{25499688-E08E-4C31-8313-938C2413879E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceDataRouting", "DeviceDataRouting\DeviceDataRouting.csproj", "{F8DE52C8-4F9F-4666-BB9D-165FD43A0FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A060286D-F1A6-4128-8FBE-4D0552453CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A060286D-F1A6-4128-8FBE-4D0552453CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A060286D-F1A6-4128-8FBE-4D0552453CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A060286D-F1A6-4128-8FBE-4D0552453CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25499688-E08E-4C31-8313-938C2413879E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25499688-E08E-4C31-8313-938C2413879E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25499688-E08E-4C31-8313-938C2413879E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25499688-E08E-4C31-8313-938C2413879E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DE52C8-4F9F-4666-BB9D-165FD43A0FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DE52C8-4F9F-4666-BB9D-165FD43A0FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DE52C8-4F9F-4666-BB9D-165FD43A0FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DE52C8-4F9F-4666-BB9D-165FD43A0FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

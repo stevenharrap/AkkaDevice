@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyName>AkkaDevice.DevicesConsole</AssemblyName>
+        <RootNamespace>AkkaDevice.DevicesConsole</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DeviceDataRouting\DeviceDataRouting.csproj" />
+      <ProjectReference Include="..\Dtos\Dtos.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Akka" Version="1.4.21" />
+    </ItemGroup>
+
+</Project>
