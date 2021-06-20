@@ -1,7 +1,7 @@
 # AkkaDevice
 Simple demonstrations of some of the features of Akka.
 
-![Actor Layout](/images/Actors.png)
+![Actor Layout](/Actors.png)
 Format: ![Alt Text](url)
 
 
